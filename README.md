@@ -1,5 +1,5 @@
 # ⛵ Boat Reservation Website 
-In this project, you will create a dynamic responsive boat website developed using Object Oriented PHP Programming Language.
+In this project, you will create a dynamic responsive boat website developed using Object Oriented PHP Programming Language...
 
 # ⚙️ Technology Used
 - HTML5
